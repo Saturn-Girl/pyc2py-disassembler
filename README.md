@@ -5,10 +5,11 @@ What programing language is this software writen
 Pyc2py is writen in python and x86 assembly
 
 How to use
-1. Downloadp python if you did not download it i recomemeded python 3.13
+1. Download python if you did not download it i recomemeded python 3.13
 2. You can download it here https://www.python.org/downloads/release/python-3130/
 3. Once after download either run python main.py or right click edit in idle
 How to compile
 1. use a python compiler use pyinstaller
-2. for pyinstaller run pyinstaller main.py
+2. run pyinstaller main.py
+You can redistribute this software because it uses the GPL license
 
