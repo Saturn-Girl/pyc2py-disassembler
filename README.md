@@ -8,6 +8,8 @@ How to use
 1. Download python if you did not download it i recomemeded python 3.13
 2. You can download it here https://www.python.org/downloads/release/python-3130/
 3. Once after download either run python main.py or right click edit in idle
+
+
 How to compile
 1. use a python compiler use pyinstaller
 2. run pyinstaller main.py
